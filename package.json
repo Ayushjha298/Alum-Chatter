@@ -4,8 +4,8 @@
   "description": "AlumChatter is a real-time chat application developed using the MERN stack, specifically designed for college alumni to connect and communicate seamlessly. The application leverages Socket.IO to provide real-time messaging, ensuring low-latency and efficient communication.",
   "main": "index.js",
   "scripts": {
-  "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
-  "start": "npm install --prefix backend && npm run start --prefix backend"
+    "build":"npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start" : "npm run start --prefix backend"
   },
   "keywords": [],
   "author": "",
