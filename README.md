@@ -27,11 +27,11 @@ AlumChatter was designed specifically for college alumni to stay connected throu
 
 ## Screenshots
 
-![Login Page](./frontend/dist/assets/Sigin.png)
+![Signin Page](./frontend/src/lib/assets/Sigin.png)
 
-![Login Page](./frontend/dist/assets/Signup.png)
+![SignUp Page](./frontend/src/lib/assets/Signup.png)
 
-![Chat Page](./frontend//dist/assets/Chat.png)
+![Chat Page](./frontend/src/lib/assets/Chat.png)
 ## Environment Variables
 
 Create a `.env` file in the root directory and add the following:
